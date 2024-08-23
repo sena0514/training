@@ -50,6 +50,18 @@ export default function Home() {
           >
             7.Random Words
           </Link>
+          <Link
+            className="py-3 px-2  text-center rounded-lg border-4 border-gray-500 inline-block bg-blue-950 text-white"
+            href="/numberChange"
+          >
+            8.Number Change
+          </Link>
+          <Link
+            className="py-3 px-2  text-center rounded-lg border-4 border-gray-500 inline-block bg-blue-950 text-white"
+            href="/countUpdate"
+          >
+            9.Count Update
+          </Link>
         </div>
       </div>
     </div>
